@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 07/01/2015 19:38:31
+
+BeginCmp
+TimeStamp = /54ACD01E;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ACD061;
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ACD0E8;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ACCF56;
+Reference = P1;
+ValeurCmp = -   +;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ACD08F;
+Reference = Q1;
+ValeurCmp = 2N3904;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ACCFB9;
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ACF48F;
+Reference = T1;
+ValeurCmp = torroid21T;
+IdModule  = Choke_Toroid_ThroughHole:Transformer_Toroid_horizontal_Diameter9mm_Amidon-T30;
+EndCmp
+
+EndListe
