@@ -5,4 +5,6 @@ It has a built-in Joule thief circuit that lights up small LED every once in a w
 
 <hr>
 
-![alt text](https://raw.githubusercontent.com/Nikolichnik/humanPoweredAl-airBattery/master/HPAl-air_FFH.png)
+<p align="center">
+  <a href="https://github.com/Nikolichnik"><img src="(https://raw.githubusercontent.com/Nikolichnik/humanPoweredAl-airBattery/master/HPAl-air_FFH.png"></a>
+</p>
